@@ -78,7 +78,7 @@ Inteligente y muy hablador.
  " " 
 
 ```
-`String`: " ___\n{o,o}\n/)  )"+ "   Respuesta" +"\n \" \" "
+`String`: ```" ___\n{o,o}\n/)  )"+ "   Respuesta" +"\n \" \" "```
 
 ### 🐦 Gorrión
 
@@ -90,7 +90,7 @@ Pequeño, respondón y de mal carácter.
  " "
 ```
 ---
-`String`: " ,_,\n(.,.)\n(   )"+ "   Respuesta"+ "\n \" \" "
+`String`: ```" ,_,\n(.,.)\n(   )"+ "   Respuesta"+ "\n \" \" "```
 
 ### 🐶 Perro
 
@@ -103,7 +103,7 @@ V\ Y /V
  |    \ 
  || (__V
 ```
-`String`: " /^ ^\\\n/ 0 0 \\\nV\\ Y /V\n / - \\"+ "   respuesta" +"\n |    \\\n || (__V"
+`String`: ```" /^ ^\\\n/ 0 0 \\\nV\\ Y /V\n / - \\"+ "   respuesta" +"\n |    \\\n || (__V"```
 
 ### 🐮 Vaca
 
@@ -114,7 +114,7 @@ Famosa, sabe hablar con los usuarios.
  ||    (__)  Soy la vaca lola, tengo canciones a mi nombre, que mas quieres?
  ||w--||
 ```
-`String`: "       (__)\n\\------(oo)\n ||    (__)"+"   respuesta"+"\n ||w--||"
+`String`: ```"       (__)\n\\------(oo)\n ||    (__)"+"   respuesta"+"\n ||w--||"```
 
 ### 🐰 Conejo
 
@@ -124,4 +124,4 @@ Fuerte, poderoso y esponjoso.
 (=o.o=)  conmigo encontraras el camino de la excelencia muchach@, ademas recuerda.... Soy batman!
 ("")_("")
 ```
-`String`: "( \\_/ )\n(=o.o=)" + "   respuesta" + "\n(\"\")_(\"\")"
+`String`: ```"( \\_/ )\n(=o.o=)" + "   respuesta" + "\n(\"\")_(\"\")"```
