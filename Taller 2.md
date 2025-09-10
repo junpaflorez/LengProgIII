@@ -104,7 +104,6 @@ V\ Y /V
  || (__V
 ```
 `String`: " /^ ^\\\n/ 0 0 \\\nV\\ Y /V\n / - \\"+ "   respuesta" +"\n |    \\\n || (__V"
----
 
 ### 🐮 Vaca
 
@@ -116,7 +115,6 @@ Famosa, sabe hablar con los usuarios.
  ||w--||
 ```
 `String`: "       (__)\n\\------(oo)\n ||    (__)"+"   respuesta"+"\n ||w--||"
----
 
 ### 🐰 Conejo
 
